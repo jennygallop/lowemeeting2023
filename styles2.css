@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #001F3F; /* Navy color */
+    background-image: url('TemplateGraphics2023.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 0 1.5em;
+}
+
+.orange-text {
+    color: #FF851B; /* Orange color */
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.5;
+    color: #001F3F; /* Navy color */
+}
+
+.skip-link {
+    display: inline-block;
+    margin: 0.5em 0;
+}
+
+.skip-link:hover {
+    color: #FF851B; /* Orange color */
+}
+
+a {
+    color: #001F3F; /* Navy color */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FF851B; /* Orange color */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
